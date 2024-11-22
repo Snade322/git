@@ -26,6 +26,8 @@ def main():
     print("is turned on?", switch.is_turned_on())
     print("is turned off?", switch.is_turned_off())
 
+    print("TEST GIT REPO")
+
 
 if __name__ == "__main__":
     main()
